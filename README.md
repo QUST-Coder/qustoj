@@ -1,0 +1,2 @@
+# qustoj
+QUST Online Judge
